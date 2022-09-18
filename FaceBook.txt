@@ -8,4 +8,6 @@ Introduce Name: Sudhaharan Yuvasri
 2.Click Post
 3.View Stories
 4.Check Profile Details
+5.Give Likes To Your Follwers
+6.Accept All Friend Request
 
